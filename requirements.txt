@@ -6,6 +6,6 @@ charset-normalizer==3.3.2
 frozenlist==1.4.1
 idna==3.6
 multidict==6.0.4
-py-cord @ git+https://github.com/Pycord-Development/pycord@d63534fead54b7c0192daabf4330c3f4310745d2
+py-cord @ git+https://github.com/Pycord-Development/pycord@feat/ua
 yarl==1.9.4
 asyncspotify==0.12.1

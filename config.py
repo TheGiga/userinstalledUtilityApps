@@ -3,4 +3,3 @@
 ENABLED_MODULES: list[str] = [
     "project.modules.musicsearch"
 ]
-
